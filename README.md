@@ -1,1 +1,2 @@
-# flutter_pertama
+# TUGAS UTS APLIKASI FLUTTER
+Stephen Pratama Kurnia TI.22.A5 312210635
